@@ -1,0 +1,44 @@
+.container-cajachica {
+   background: #323739; /* background: yellowgreen; */
+   display: flow-root;
+   height: 448px;
+   overflow-y: scroll;   
+}
+
+.card {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 2px 0 rgba(0,0,0,0.19) !important;
+    height: 85px;
+    padding: 5px;
+}
+
+.title {
+    color: #666666;    
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-transform: uppercase;
+    /* text-transform: capitalize;     */
+}
+
+.date {
+    font-size: 15px;
+    font-weight: bold;    
+    color: #96a3bb;
+    text-align: right;
+    display: block;
+    padding-right: 20px;    
+}
+
+.detail {
+    font-size: 12px;
+    font-weight: 300;    
+    color: #fffdfd;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.amount {
+    font-size: 14px;
+    font-weight: 600;    
+    color: #9fec90;
+}

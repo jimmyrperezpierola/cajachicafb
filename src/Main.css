@@ -1,0 +1,30 @@
+.landingItem{
+    height: 96.05%;
+    padding-left: 1px;
+    padding-top: 8px;
+    background: transparent !important;    
+}
+.landingItem i{
+    color: #605b5b;
+    padding: 10px;
+    display: inline-block;
+}
+.landingItem ul{
+    display: flex;     
+}
+.ulMenu{
+    display: flex;      
+}
+.ulMenu ul{
+    display: flex;     
+    padding-left: 6px;       
+}
+
+.ulMenu li{
+    margin: 10px;    
+    margin-left: 2px !important;    
+}
+
+.layout{
+    display: inline !important;
+}

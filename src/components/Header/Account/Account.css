@@ -1,0 +1,14 @@
+.account {
+    width: 4.8%;
+    background: #1e1b1b;;    
+    display: inline-block; 
+    height: 100%;
+    margin-left: 3px;
+    z-index: 1;
+}
+/* resize images */
+.account img {
+    width: 76%;
+    height: auto;
+    border-radius: 25px;
+}

@@ -1,0 +1,144 @@
+p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #1e1b1b;
+    font-weight: bold;
+}
+.cajachica-content {
+    color: #1e1b1b;          
+    font-size: 16px;  
+}
+.box-date {
+    height: 71px;
+    /* padding: 5px; */
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.box-date>div>label {
+    /* font-family: Poppins-Regular; */
+    /* font-size: 16px; */
+    line-height: 1.7;
+    color: #666666;
+    font-weight: bold;
+}
+
+.box-date>input
+{
+    display: block;
+    float: left;
+    padding-top: 5px;
+    margin-top: 5px;
+    height: 30px;
+}
+.label-fecha {
+    text-align: start;
+}
+.box-detalle {
+    height: 83px;
+    /* padding: 5px; */
+    padding-top: 10px;
+    padding-left: 30px;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 2px 0 rgba(0,0,0,0.19) !important;
+}
+.box-detalle>input {
+    display: block;
+    width: 750px;
+    margin-top: 5px;
+    height: 30px;
+}
+
+.dlv-detalle>label {
+    text-align: start;
+    display: block;  
+    line-height: 1.7;  
+    color: #666666;
+    font-weight: bold;
+}
+.dlv-detalle>input {
+    display: block;
+    margin-top: 5px;
+    width: 750px;
+} 
+
+.box-tipo-operacion {
+    padding: 6px; /* padding: 5px; */
+    height: 60px;
+    padding-top: 10px;      
+}
+.box-tipo-operacion > p {
+    color: #666666;
+    font-size: 16px;
+}
+
+.tipo-operacion-space {
+    padding: 5px;
+}
+
+.tipo-operacion > span > label {
+    padding: 5px;
+}
+
+.box-tipo-caja {
+    height: 60px;
+    margin-top: 20px;
+    padding-top: 10px;   
+}
+.box-tipo-caja>p {
+    font-size: 16px;
+    color: #666666;
+}
+
+.box-tipo-caja > span {
+    padding: 5px;
+}
+.box-tipo-caja > span > label {
+    padding: 5px;
+}
+/* .box-tipo-caja > label {
+    padding-left: 5px;
+} */
+
+.monto-io {
+    height: 58px;
+    padding: 5px;
+    margin-top: 18px;
+    display: flex;
+    align-items: center;
+    padding-top: 0px;
+    padding-left: 740px;
+    margin-bottom: 5px;
+}
+.monto-io > label {
+    color: #666666;
+    font-weight: bold;
+}
+
+.monto-io > input {
+    padding-left: 8px;
+    margin-left: 5px;
+    height: 35px;
+}
+
+.save-button {
+    display: flex;
+    padding: 18px 0px 0px 850px;
+    height: 88px;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+}
+
+.save-button > button {
+    height: 43px;
+    background: turquoise;
+    width: 136px;
+    color: white;
+    /* border: 1px solid #bebcd0; */
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.saveButton:hover {
+    cursor: pointer;
+    background: #61d90f;
+    color: white;
+    /* border: 1px solid #eaeaea; */
+    /* box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 2px 0 rgba(0,0,0,0.19) !important; */
+}

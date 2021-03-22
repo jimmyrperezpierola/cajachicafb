@@ -53,3 +53,17 @@ export const homeObjFour = {
   img: 'images/svg-8.svg',
   alt: 'Vault'
 };
+
+export const homeTransacciones = {
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: 'Inicio',
+  headline: 'Transacciones, I/O de caja chica',
+  description:
+    'Transacciones es un modulo para la administracion de caja chica. Los datos ingresados en este modulo seran procesados en el sistema QuickCont',
+  buttonLabel: 'Empezar',
+  imgStart: '',
+  img: 'images/svg-1.svg',
+  alt: 'Credit Card'
+};

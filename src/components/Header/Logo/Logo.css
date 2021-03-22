@@ -1,0 +1,17 @@
+.logo {
+    width: 17.64%;
+    background: #fff;
+    display: flex;
+    height: 100%; 
+    z-index: 1;        
+}
+/* resize images */
+.logo img {
+    width: 28%;
+    height: auto;
+}
+.logo span {
+    color: #888787;     
+    font-size: x-large;
+    align-self: center;   
+}  

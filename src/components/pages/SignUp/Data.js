@@ -3,9 +3,9 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'SIGN UP TODAY',
-  headline: 'Join today to receive an exclusive offer',
+  headline: 'Loguearse ahora para empezar a trabajar.',
   description:
-    'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
+    'Es necesario acceder mediante una cuenta de email para acceder al sistema, luego vaya a la pagina de transacciones.',
   buttonLabel: 'Sign Up',
   imgStart: '',
   img: 'images/svg-6.svg',
